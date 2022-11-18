@@ -3,11 +3,11 @@ header {
     color: #7E0062;
 }
 div {
-    background-color: #BBDAAD;
+    background-color: #FFAF41 ;
     color: #7E0062;
 }
 footer {
-    background-color: #BBDAAD;
+    background-color: #FFAF41 ;
     color:#7E0062
 }
 body {
@@ -15,4 +15,5 @@ body {
     border-style: dotted;
     margin: 25px 50px 75px 100px;
     text-align: center;
+    background-color: #D2EEFF;
 }
