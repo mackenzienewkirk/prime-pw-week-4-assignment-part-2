@@ -18,3 +18,7 @@ body {
     text-align: center;
     background-color: #D2EEFF;
 }
+img {
+    border-style: solid;
+    border-radius: 25px;
+}
